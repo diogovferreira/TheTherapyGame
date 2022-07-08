@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserDataBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <list>
+    <UserEntry>
+      <id>20</id>
+      <username>zimbas</username>
+      <password>123</password>
+      <name>Ruben</name>
+      <age>24</age>
+      <height>156</height>
+      <weight>66</weight>
+      <gender>Male</gender>
+      <comments>sadasdasdasda</comments>
+      <rehabType>Superior</rehabType>
+    </UserEntry>
+  </list>
+</UserDataBase>

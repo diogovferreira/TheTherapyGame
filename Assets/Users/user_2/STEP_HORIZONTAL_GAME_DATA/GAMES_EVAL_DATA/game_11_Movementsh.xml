@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MovementDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <list>
+    <MovementEntry>
+      <movementNumber>1</movementNumber>
+      <angle>0</angle>
+      <movementDuration>0.479999542</movementDuration>
+      <movementMediumVelocity>0</movementMediumVelocity>
+      <distance>0</distance>
+    </MovementEntry>
+    <MovementEntry>
+      <movementNumber>2</movementNumber>
+      <angle>0</angle>
+      <movementDuration>1.87999916</movementDuration>
+      <movementMediumVelocity>0</movementMediumVelocity>
+      <distance>0</distance>
+    </MovementEntry>
+    <MovementEntry>
+      <movementNumber>3</movementNumber>
+      <angle>33</angle>
+      <movementDuration>1.31999969</movementDuration>
+      <movementMediumVelocity>40</movementMediumVelocity>
+      <distance>53</distance>
+    </MovementEntry>
+  </list>
+</MovementDatabase>

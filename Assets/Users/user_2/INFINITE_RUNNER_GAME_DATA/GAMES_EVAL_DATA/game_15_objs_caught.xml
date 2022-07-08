@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ObjectDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <list>
+    <InfObjectEntry>
+      <objectNumber>1</objectNumber>
+      <angle>126</angle>
+      <handUsed>Left</handUsed>
+    </InfObjectEntry>
+    <InfObjectEntry>
+      <objectNumber>2</objectNumber>
+      <angle>122</angle>
+      <handUsed>Right</handUsed>
+    </InfObjectEntry>
+  </list>
+</ObjectDatabase>

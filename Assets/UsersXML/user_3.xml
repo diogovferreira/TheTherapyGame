@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserDataBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <list>
+    <UserEntry>
+      <id>3</id>
+      <username>filipa123</username>
+      <password>123</password>
+      <name>Filipa</name>
+      <age>25</age>
+      <height>167</height>
+      <weight>67</weight>
+      <gender>Female</gender>
+      <comments>asdasdasdasdasdasdasdasdasdasd</comments>
+      <rehabType>Superior</rehabType>
+    </UserEntry>
+  </list>
+</UserDataBase>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<PhisioDataBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <list>
+    <PhisioEntry>
+      <username>carlota</username>
+      <password>123</password>
+      <name>Carla</name>
+      <ccNumber>124512341</ccNumber>
+    </PhisioEntry>
+  </list>
+</PhisioDataBase>

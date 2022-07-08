@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MapDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <mapList>
+    <MapEntryData>
+      <WallPos>
+        <Vector3>
+          <x>-9.418391</x>
+          <y>5.39243364</y>
+          <z>6.24</z>
+        </Vector3>
+        <Vector3>
+          <x>-9.671801</x>
+          <y>3.28068638</y>
+          <z>6.24</z>
+        </Vector3>
+      </WallPos>
+      <WallRot>
+        <Quaternion>
+          <x>0</x>
+          <y>0</y>
+          <z>0.7071068</z>
+          <w>0.7071068</w>
+          <eulerAngles>
+            <x>0</x>
+            <y>0</y>
+            <z>90</z>
+          </eulerAngles>
+        </Quaternion>
+        <Quaternion>
+          <x>0</x>
+          <y>0</y>
+          <z>0.7071068</z>
+          <w>0.7071068</w>
+          <eulerAngles>
+            <x>0</x>
+            <y>0</y>
+            <z>90</z>
+          </eulerAngles>
+        </Quaternion>
+      </WallRot>
+    </MapEntryData>
+  </mapList>
+</MapDatabase>

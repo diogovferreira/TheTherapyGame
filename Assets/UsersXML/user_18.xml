@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserDataBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <list>
+    <UserEntry>
+      <id>18</id>
+      <username>diogofer</username>
+      <password>ferreira</password>
+      <name>Diogo</name>
+      <age>25</age>
+      <height>183</height>
+      <weight>76</weight>
+      <gender>Male</gender>
+      <comments>dadasdadasd</comments>
+      <rehabType>Both</rehabType>
+    </UserEntry>
+  </list>
+</UserDataBase>

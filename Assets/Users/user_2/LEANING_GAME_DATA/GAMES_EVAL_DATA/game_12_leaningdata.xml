@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LeaningDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <list>
+    <LeaningDataEntry>
+      <leaningAngle>15</leaningAngle>
+      <leaningTime>20</leaningTime>
+      <leaningSide>Left</leaningSide>
+    </LeaningDataEntry>
+  </list>
+</LeaningDatabase>

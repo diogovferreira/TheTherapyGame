@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GamesDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <gameList>
+    <GameEntryData>
+      <gameNumber>0</gameNumber>
+      <gameTime>44</gameTime>
+      <score>1</score>
+      <scoreObjective>1</scoreObjective>
+      <fireRate>2</fireRate>
+      <tileSpeed>0</tileSpeed>
+      <stepsLeft>0</stepsLeft>
+      <stepsRight>0</stepsRight>
+      <badObjs>0</badObjs>
+      <goodObjs>0</goodObjs>
+      <gameResult>WON</gameResult>
+      <poison>3</poison>
+      <bombs>1</bombs>
+      <medicalKit>0</medicalKit>
+      <diamonds>0</diamonds>
+      <playerSpeed>3</playerSpeed>
+      <lives>0</lives>
+      <stars>1</stars>
+      <wrench>4</wrench>
+      <spawnRange>2</spawnRange>
+      <handUsed />
+    </GameEntryData>
+  </gameList>
+</GamesDatabase>

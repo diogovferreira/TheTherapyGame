@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserDataBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <list>
+    <UserEntry>
+      <id>7</id>
+      <username>ritafer</username>
+      <password>123</password>
+      <name>Rita</name>
+      <age>40</age>
+      <height>160</height>
+      <weight>77</weight>
+      <gender>Female</gender>
+      <comments>alshdihasidhiahsidhiu</comments>
+      <rehabType>Inferior</rehabType>
+    </UserEntry>
+  </list>
+</UserDataBase>

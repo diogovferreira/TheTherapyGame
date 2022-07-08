@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserDataBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <list>
+    <UserEntry>
+      <id>12</id>
+      <username>as</username>
+      <password>123</password>
+      <name>Aspirador</name>
+      <age>25</age>
+      <height>187</height>
+      <weight>33</weight>
+      <gender>Male</gender>
+      <comments>asdadasdasasdasd</comments>
+      <rehabType>Inferior</rehabType>
+    </UserEntry>
+  </list>
+</UserDataBase>

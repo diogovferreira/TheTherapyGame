@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HitWallDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <list>
+    <HitWallDataEntry>
+      <mediumVel>0.9971649</mediumVel>
+      <distance>46.2173576</distance>
+      <time>53</time>
+    </HitWallDataEntry>
+    <HitWallDataEntry>
+      <mediumVel>4.922889</mediumVel>
+      <distance>46.2173576</distance>
+      <time>52</time>
+    </HitWallDataEntry>
+    <HitWallDataEntry>
+      <mediumVel>5.85046</mediumVel>
+      <distance>46.2173576</distance>
+      <time>51</time>
+    </HitWallDataEntry>
+    <HitWallDataEntry>
+      <mediumVel>13.8947515</mediumVel>
+      <distance>46.2173576</distance>
+      <time>50</time>
+    </HitWallDataEntry>
+    <HitWallDataEntry>
+      <mediumVel>5.506088</mediumVel>
+      <distance>46.2173576</distance>
+      <time>49</time>
+    </HitWallDataEntry>
+    <HitWallDataEntry>
+      <mediumVel>3.93641067</mediumVel>
+      <distance>46.2173576</distance>
+      <time>48</time>
+    </HitWallDataEntry>
+  </list>
+</HitWallDatabase>
